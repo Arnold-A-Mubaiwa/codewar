@@ -1,0 +1,15 @@
+C:\Codewars\codewar\CodeWarsExcerices\ToUperCase\bin\Debug\net8.0\ToUperCase.exe
+C:\Codewars\codewar\CodeWarsExcerices\ToUperCase\bin\Debug\net8.0\ToUperCase.deps.json
+C:\Codewars\codewar\CodeWarsExcerices\ToUperCase\bin\Debug\net8.0\ToUperCase.runtimeconfig.json
+C:\Codewars\codewar\CodeWarsExcerices\ToUperCase\bin\Debug\net8.0\ToUperCase.dll
+C:\Codewars\codewar\CodeWarsExcerices\ToUperCase\bin\Debug\net8.0\ToUperCase.pdb
+C:\Codewars\codewar\CodeWarsExcerices\ToUperCase\obj\Debug\net8.0\ToUperCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codewars\codewar\CodeWarsExcerices\ToUperCase\obj\Debug\net8.0\ToUperCase.AssemblyInfoInputs.cache
+C:\Codewars\codewar\CodeWarsExcerices\ToUperCase\obj\Debug\net8.0\ToUperCase.AssemblyInfo.cs
+C:\Codewars\codewar\CodeWarsExcerices\ToUperCase\obj\Debug\net8.0\ToUperCase.csproj.CoreCompileInputs.cache
+C:\Codewars\codewar\CodeWarsExcerices\ToUperCase\obj\Debug\net8.0\ToUperCase.sourcelink.json
+C:\Codewars\codewar\CodeWarsExcerices\ToUperCase\obj\Debug\net8.0\ToUperCase.dll
+C:\Codewars\codewar\CodeWarsExcerices\ToUperCase\obj\Debug\net8.0\refint\ToUperCase.dll
+C:\Codewars\codewar\CodeWarsExcerices\ToUperCase\obj\Debug\net8.0\ToUperCase.pdb
+C:\Codewars\codewar\CodeWarsExcerices\ToUperCase\obj\Debug\net8.0\ToUperCase.genruntimeconfig.cache
+C:\Codewars\codewar\CodeWarsExcerices\ToUperCase\obj\Debug\net8.0\ref\ToUperCase.dll
