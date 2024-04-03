@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWarsExercises", "CodeWarsExercises\CodeWarsExercises.csproj", "{31617832-7E6A-4CDE-9400-92D8BE0B5C23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToUperCase", "ToUperCase\ToUperCase.csproj", "{7E609FCF-FB58-4098-A3E7-267F010FA320}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Execution", "Execution\Execution.csproj", "{7E609FCF-FB58-4098-A3E7-267F010FA320}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{777BD7F7-0482-4E75-8E5D-D79ACC8E68BB}"
 EndProject

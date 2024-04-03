@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Execution/1.0.0": {
+        "dependencies": {
+          "CodeWarsExercises": "1.0.0"
+        },
+        "runtime": {
+          "Execution.dll": {}
+        }
+      },
+      "CodeWarsExercises/1.0.0": {
+        "runtime": {
+          "CodeWarsExercises.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Execution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodeWarsExercises/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

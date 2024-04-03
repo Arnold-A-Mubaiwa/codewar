@@ -1,8 +1,5 @@
 C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\CoverletSourceRootsMapping_UnitTests
 C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\testhost.dll
-C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\ToUperCase.deps.json
-C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\ToUperCase.runtimeconfig.json
-C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\ToUperCase.exe
 C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\testhost.exe
 C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
@@ -90,8 +87,6 @@ C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\zh-Hans\Microso
 C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\ToUperCase.dll
-C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\ToUperCase.pdb
 C:\Codewars\codewar\CodeWarsExcerices\UnitTests\obj\Debug\net8.0\UnitTests.csproj.AssemblyReference.cache
 C:\Codewars\codewar\CodeWarsExcerices\UnitTests\obj\Debug\net8.0\UnitTests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Codewars\codewar\CodeWarsExcerices\UnitTests\obj\Debug\net8.0\UnitTests.AssemblyInfoInputs.cache
@@ -104,3 +99,10 @@ C:\Codewars\codewar\CodeWarsExcerices\UnitTests\obj\Debug\net8.0\refint\UnitTest
 C:\Codewars\codewar\CodeWarsExcerices\UnitTests\obj\Debug\net8.0\UnitTests.pdb
 C:\Codewars\codewar\CodeWarsExcerices\UnitTests\obj\Debug\net8.0\UnitTests.genruntimeconfig.cache
 C:\Codewars\codewar\CodeWarsExcerices\UnitTests\obj\Debug\net8.0\ref\UnitTests.dll
+C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\Execution.deps.json
+C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\Execution.runtimeconfig.json
+C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\Execution.exe
+C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\CodeWarsExercises.dll
+C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\Execution.dll
+C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\Execution.pdb
+C:\Codewars\codewar\CodeWarsExcerices\UnitTests\bin\Debug\net8.0\CodeWarsExercises.pdb

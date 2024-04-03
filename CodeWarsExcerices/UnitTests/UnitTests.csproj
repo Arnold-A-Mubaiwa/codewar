@@ -23,7 +23,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\ToUperCase\ToUperCase.csproj" />
+      <ProjectReference Include="..\Execution\Execution.csproj" />
     </ItemGroup>
 
 </Project>

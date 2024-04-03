@@ -1,0 +1,12 @@
+C:\Codewars\codewar\CodeWarsExcerices\CodeWarsExercises\bin\Debug\net8.0\CodeWarsExercises.deps.json
+C:\Codewars\codewar\CodeWarsExcerices\CodeWarsExercises\bin\Debug\net8.0\CodeWarsExercises.dll
+C:\Codewars\codewar\CodeWarsExcerices\CodeWarsExercises\bin\Debug\net8.0\CodeWarsExercises.pdb
+C:\Codewars\codewar\CodeWarsExcerices\CodeWarsExercises\obj\Debug\net8.0\CodeWarsExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codewars\codewar\CodeWarsExcerices\CodeWarsExercises\obj\Debug\net8.0\CodeWarsExercises.AssemblyInfoInputs.cache
+C:\Codewars\codewar\CodeWarsExcerices\CodeWarsExercises\obj\Debug\net8.0\CodeWarsExercises.AssemblyInfo.cs
+C:\Codewars\codewar\CodeWarsExcerices\CodeWarsExercises\obj\Debug\net8.0\CodeWarsExercises.csproj.CoreCompileInputs.cache
+C:\Codewars\codewar\CodeWarsExcerices\CodeWarsExercises\obj\Debug\net8.0\CodeWarsExercises.sourcelink.json
+C:\Codewars\codewar\CodeWarsExcerices\CodeWarsExercises\obj\Debug\net8.0\CodeWarsExercises.dll
+C:\Codewars\codewar\CodeWarsExcerices\CodeWarsExercises\obj\Debug\net8.0\refint\CodeWarsExercises.dll
+C:\Codewars\codewar\CodeWarsExcerices\CodeWarsExercises\obj\Debug\net8.0\CodeWarsExercises.pdb
+C:\Codewars\codewar\CodeWarsExcerices\CodeWarsExercises\obj\Debug\net8.0\ref\CodeWarsExercises.dll

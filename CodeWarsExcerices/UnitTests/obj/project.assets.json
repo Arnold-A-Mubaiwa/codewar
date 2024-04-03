@@ -1713,14 +1713,27 @@
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "ToUperCase/1.0.0": {
+      "CodeWarsExercises/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/ToUperCase.dll": {}
+          "bin/placeholder/CodeWarsExercises.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ToUperCase.dll": {}
+          "bin/placeholder/CodeWarsExercises.dll": {}
+        }
+      },
+      "Execution/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CodeWarsExercises": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Execution.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Execution.dll": {}
         }
       }
     }
@@ -5518,16 +5531,21 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "ToUperCase/1.0.0": {
+    "CodeWarsExercises/1.0.0": {
       "type": "project",
-      "path": "../ToUperCase/ToUperCase.csproj",
-      "msbuildProject": "../ToUperCase/ToUperCase.csproj"
+      "path": "../CodeWarsExercises/CodeWarsExercises.csproj",
+      "msbuildProject": "../CodeWarsExercises/CodeWarsExercises.csproj"
+    },
+    "Execution/1.0.0": {
+      "type": "project",
+      "path": "../Execution/Execution.csproj",
+      "msbuildProject": "../Execution/Execution.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Execution >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.6.0",
-      "ToUperCase >= 1.0.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.4.2",
       "xunit.runner.visualstudio >= 2.4.5"
@@ -5560,8 +5578,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Codewars\\codewar\\CodeWarsExcerices\\ToUperCase\\ToUperCase.csproj": {
-              "projectPath": "C:\\Codewars\\codewar\\CodeWarsExcerices\\ToUperCase\\ToUperCase.csproj"
+            "C:\\Codewars\\codewar\\CodeWarsExcerices\\Execution\\Execution.csproj": {
+              "projectPath": "C:\\Codewars\\codewar\\CodeWarsExcerices\\Execution\\Execution.csproj"
             }
           }
         }
