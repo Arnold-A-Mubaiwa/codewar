@@ -18,4 +18,15 @@ public static class Integration
         var greet = GreetingStatement.Greet("Arnold");
         Assert.Equal("Hello, Arnold how are you doing today?",greet);
     }
+
+    [Theory]
+    [InlineData(new[] { 2, 3 }, 5)]
+    [InlineData(new[] { 100, 40, 34, 57, 29, 72, 57, 88 }, 75)]
+    [InlineData(new[] { 12, 23, 34, 45, 56, 67, 78, 89, 90 }, 69)]
+    public static void ShouldCalculateAverage(int[] grades, int yourGrade)
+    {
+        var greater = BetterThanAverage.BetterThanAverageClass(grades, yourGrade);
+        Assert.True(greater);
+    }
+    
 }

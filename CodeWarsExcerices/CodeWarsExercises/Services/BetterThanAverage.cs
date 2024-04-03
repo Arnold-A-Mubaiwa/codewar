@@ -1,6 +1,7 @@
 ﻿namespace CodeWarsExercises.Services;
 
-public class BetterThanAverage
+public static class BetterThanAverage
 {
-    
+    public static bool BetterThanAverageClass(int[] classPoints, int yourPoints)
+         => classPoints.Sum() / classPoints.Length < yourPoints;
 }
