@@ -1,4 +1,5 @@
-using CodeWarsExercises.Services;
+using CodeWarsExercises.Katas;
+
 namespace UnitTests;
 
 public static class Integration
@@ -26,5 +27,17 @@ public static class Integration
     {
         var greater = BetterThanAverage.BetterThanAverageClass(grades, yourGrade);
         Assert.True(greater);
+    }
+
+    [Theory]
+    [InlineData(155, -1)]
+    [InlineData(121, 144)]
+    [InlineData(625, 676)]
+    [InlineData(319225, 320356)]
+    [InlineData(15241383936, 15241630849)]
+    public static void ShouldGetNextSquare(long number, long expected)
+    {
+        var nextSquare = FindNextSquare.NextSquare(number);
+        Assert.Equal( expected, nextSquare);
     }
 }

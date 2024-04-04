@@ -1,4 +1,4 @@
-﻿namespace CodeWarsExercises.Services;
+﻿namespace CodeWarsExercises.Katas;
 
 public static class BetterThanAverage
 {

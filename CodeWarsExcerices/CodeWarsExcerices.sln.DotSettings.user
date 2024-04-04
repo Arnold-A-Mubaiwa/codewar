@@ -4,5 +4,6 @@
     &lt;TestId&gt;xUnit::777BD7F7-0482-4E75-8E5D-D79ACC8E68BB::net8.0::UnitTests.Integration.ShouldCheckIfItsInJaden&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::777BD7F7-0482-4E75-8E5D-D79ACC8E68BB::net8.0::UnitTests.Integration.ShouldDisplayAGreetingStatement&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::777BD7F7-0482-4E75-8E5D-D79ACC8E68BB::net8.0::UnitTests.Integration.ShouldCalculateAverage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::777BD7F7-0482-4E75-8E5D-D79ACC8E68BB::net8.0::UnitTests.Integration.ShouldGetNextSquare&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
