@@ -5,3 +5,5 @@ Console.WriteLine("How can mirrors be real if our eyes aren't real".MakeJadenCas
 Console.WriteLine(GreetingStatement.Greet("Arnold"));
 
 Console.WriteLine(BetterThanAverage.BetterThanAverageClass([2,3], 5));
+
+Console.WriteLine(GreetingStatement.Greet("Arnold").MakeJadenCase());
