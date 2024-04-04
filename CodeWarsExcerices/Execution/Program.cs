@@ -1,6 +1,6 @@
 ﻿using CodeWarsExercises.Services;
 
-Console.WriteLine(ToJadenCase.MakeJadenCase("How can mirrors be real if our eyes aren't real"));
+Console.WriteLine("How can mirrors be real if our eyes aren't real".MakeJadenCase());
 
 Console.WriteLine(GreetingStatement.Greet("Arnold"));
 

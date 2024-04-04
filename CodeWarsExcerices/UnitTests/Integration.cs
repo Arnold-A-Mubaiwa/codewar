@@ -1,5 +1,4 @@
 using CodeWarsExercises.Services;
-
 namespace UnitTests;
 
 public static class Integration
@@ -28,5 +27,4 @@ public static class Integration
         var greater = BetterThanAverage.BetterThanAverageClass(grades, yourGrade);
         Assert.True(greater);
     }
-    
 }
