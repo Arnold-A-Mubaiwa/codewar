@@ -3,7 +3,6 @@
 public static class BoolToWords
 {
     public static string BoolToWord(bool word)
-    {
-        return word ? "Yes" : "No";
-    }
+    => word ? "Yes" : "No";
+    
 }
