@@ -40,4 +40,13 @@ public static class Integration
         var nextSquare = FindNextSquare.NextSquare(number);
         Assert.Equal( expected, nextSquare);
     }
+
+    [Theory]
+    [InlineData(true, "Yes")]
+    [InlineData(false, "No")]
+    public static void ShouldGetBoolInWords(bool word, string expected)
+    {
+        var boolWord = BoolToWords.BoolToWord(word);
+        Assert.Equal(expected, boolWord);
+    }
 }

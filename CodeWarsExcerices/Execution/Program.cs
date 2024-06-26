@@ -12,3 +12,5 @@ Console.WriteLine(FindNextSquare.NextSquare(144));
 
 var value = ConvertNumberToString.NumberToString(11);
 Console.WriteLine(value.GetType());
+
+Console.WriteLine(BoolToWords.BoolToWord(true));

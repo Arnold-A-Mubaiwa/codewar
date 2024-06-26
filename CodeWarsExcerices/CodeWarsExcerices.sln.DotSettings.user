@@ -1,9 +1,15 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=17de30c6_002Ddacb_002D4132_002Da50a_002D5db57a4ae02b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldCheckIfItsInJaden" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=17de30c6_002Ddacb_002D4132_002Da50a_002D5db57a4ae02b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldCheckIfItsInJaden" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::777BD7F7-0482-4E75-8E5D-D79ACC8E68BB::net8.0::UnitTests.Integration.ShouldCheckIfItsInJaden&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::777BD7F7-0482-4E75-8E5D-D79ACC8E68BB::net8.0::UnitTests.Integration.ShouldDisplayAGreetingStatement&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::777BD7F7-0482-4E75-8E5D-D79ACC8E68BB::net8.0::UnitTests.Integration.ShouldCalculateAverage&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::777BD7F7-0482-4E75-8E5D-D79ACC8E68BB::net8.0::UnitTests.Integration.ShouldGetNextSquare&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::777BD7F7-0482-4E75-8E5D-D79ACC8E68BB::net8.0::UnitTests.Integration.ShouldGetBoolInWords&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bb08fdba_002Df3ec_002D44fc_002D81b1_002Dcd80b0c7a3fc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldGetBoolInWords" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::777BD7F7-0482-4E75-8E5D-D79ACC8E68BB::net8.0::UnitTests.Integration.ShouldGetBoolInWords&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

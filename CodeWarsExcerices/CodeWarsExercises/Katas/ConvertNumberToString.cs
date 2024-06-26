@@ -3,5 +3,7 @@
 public static class ConvertNumberToString
 {
     public static string NumberToString(int num)
-        => $"{num}";
+    {
+        return $"{num}";
+    }
 }
