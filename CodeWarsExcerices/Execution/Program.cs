@@ -10,8 +10,5 @@ Console.WriteLine(GreetingStatement.Greet("Arnold").MakeJadenCase());
 
 Console.WriteLine(FindNextSquare.NextSquare(144));
 
-Console.WriteLine(Math.Sqrt(4503599627370497));
-Console.WriteLine(Math.Sqrt(3716990855469008100));
-Console.WriteLine((long)Math.Pow(1927949909+1,2));
-Console.WriteLine((long)Math.Pow(1927949910, 2));
-Console.WriteLine(1927949909+1);
+var value = ConvertNumberToString.NumberToString(11);
+Console.WriteLine(value.GetType());
