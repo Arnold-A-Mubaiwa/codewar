@@ -11,5 +11,6 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bb08fdba_002Df3ec_002D44fc_002D81b1_002Dcd80b0c7a3fc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldGetBoolInWords" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::777BD7F7-0482-4E75-8E5D-D79ACC8E68BB::net8.0::UnitTests.Integration.ShouldGetBoolInWords&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::777BD7F7-0482-4E75-8E5D-D79ACC8E68BB::net8.0::UnitTests.Integration.ShouldCountNumberOfSheep&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -49,4 +49,17 @@ public static class Integration
         var boolWord = BoolToWords.BoolToWord(word);
         Assert.Equal(expected, boolWord);
     }
+
+    [Fact]
+    public static void ShouldCountNumberOfSheep()
+    {
+        bool[] sheep = 
+        [
+            true, true, true, false, true, true, true, true, true, false, true, false, true, false, false, true, true,
+            true, true, true, false, false, true, true
+        ];
+        
+        var numberOfSheep = ArrayCount.CountSheep(sheep);
+        Assert.Equal(17 ,numberOfSheep);
+    }
 }
