@@ -74,4 +74,15 @@ public static class Integration
        //Then
        Assert.Equal(expected, getFriends);
     }
+
+    [Theory]
+    [InlineData('*', 2, 3, 6)]
+    [InlineData('-', 5, 3, 2)]
+    [InlineData('+', 2, 3, 5)]
+    [InlineData('/', 9, 3, 3)]
+    public static void ShouldDoBasicMath(char sign, double val1, double val2, double expected)
+    {
+        var calculate = BasicMaths.BasicOp(sign, val1, val2);
+        Assert.Equal(expected, calculate);
+    }
 }
