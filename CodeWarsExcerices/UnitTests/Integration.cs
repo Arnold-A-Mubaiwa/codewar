@@ -62,4 +62,16 @@ public static class Integration
         var numberOfSheep = ArrayCount.CountSheep(sheep);
         Assert.Equal(17 ,numberOfSheep);
     }
+
+    [Fact]
+    public static void ShouldFindAFriend()
+    {
+       // Given
+       string[] expected = { "Ryan", "Mark" };
+       string[] names = { "Ryan", "Kieran", "Mark", "Jimmy" };
+       //When
+       var getFriends = FindAFriend.FriendOrFoe(names);
+       //Then
+       Assert.Equal(expected, getFriends);
+    }
 }

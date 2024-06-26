@@ -12,5 +12,6 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::777BD7F7-0482-4E75-8E5D-D79ACC8E68BB::net8.0::UnitTests.Integration.ShouldGetBoolInWords&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::777BD7F7-0482-4E75-8E5D-D79ACC8E68BB::net8.0::UnitTests.Integration.ShouldCountNumberOfSheep&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::777BD7F7-0482-4E75-8E5D-D79ACC8E68BB::net8.0::UnitTests.Integration.ShouldFindAFriend&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
