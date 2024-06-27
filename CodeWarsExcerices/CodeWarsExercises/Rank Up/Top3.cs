@@ -13,16 +13,9 @@ public static partial class TopThree
         words.RemoveAll(word=> word.Equals(" ")||word.Equals("")||word.Equals("  ")||word.Equals("   "));
 
         var wordCount = new Dictionary<string, int>();
-        foreach (var word in words)
+        foreach (var newWord in from word in words select CheckIfWordHasChars().Replace(word, "") into newWord where newWord is not (" " or "") where !wordCount.TryAdd(newWord.ToLower(), 1) select newWord)
         {
-            var newWord = CheckIfWordHasChars().Replace(word, "");
-            if (newWord is not (" " or ""))
-            {
-                if (!wordCount.TryAdd(newWord.ToLower(), 1))
-                {
-                    wordCount[newWord.ToLower()] += 1;
-                }
-            }
+            wordCount[newWord.ToLower()] += 1;
         }
 
         var top3 = wordCount
