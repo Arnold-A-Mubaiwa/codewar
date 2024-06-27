@@ -1,4 +1,5 @@
 using CodeWarsExercises.Katas;
+using CodeWarsExercises.Rank_Up;
 
 namespace UnitTests;
 
@@ -85,4 +86,15 @@ public static class Integration
         var calculate = BasicMaths.BasicOp(sign, val1, val2);
         Assert.Equal(expected, calculate);
     }
+
+    [Theory]
+    [InlineData("a a a  b  c c  d d d d  e e e e e", new [] { "e", "d", "a" })]
+    [InlineData("e e e e DDD ddd DdD: ddd ddd aa aA Aa, bb cc cC e e e", new [] { "e", "ddd", "aa" })]
+    [InlineData("  //wont won't won't ", new [] { "won't", "wont" })]
+    public static void ShouldTakeTheTop3(string sentence, string[] words)
+    {
+        var top3 = TopThree.Top3(sentence);
+        Assert.Equal(words, top3);
+    }
+    
 }
