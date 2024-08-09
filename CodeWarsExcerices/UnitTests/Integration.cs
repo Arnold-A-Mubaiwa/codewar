@@ -96,5 +96,13 @@ public static class Integration
         var top3 = TopThree.Top3(sentence);
         Assert.Equal(words, top3);
     }
-    
+
+    [Fact]
+    public static void ShouldCalculateAtom()
+    {
+        var atoms = Molecule.ParseMolecule("H2OP4");
+        Assert.Equal(1, atoms["4"]);
+        Assert.Equal(1, atoms["O"]);
+        Assert.Equal(4, atoms["P"]);
+    }
 }
